@@ -25,7 +25,7 @@ public class Function {
             return decimal;
         }
         public static void main(String[] args) {
-        // check given number is prime or not.
+        // Convert Binary to Decimal.
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Binary number : ");
         int n = sc.nextInt();
